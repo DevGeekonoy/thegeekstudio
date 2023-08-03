@@ -13,7 +13,7 @@ import customer10 from "../assets/customer/customer10.png";
 import customer11 from "../assets/customer/customer11.png";
 import customer12 from "../assets/customer/customer12.png";
 import customerrete from "../assets/customer/Customer-Retention.jpg";
-import customerbig from "../assets/customer/Customer-retentionbig.jpg";
+import customerbig from "../assets/customer/customer-retentionbig.jpg";
 import BeautifulCity from "./BeautifulCity";
 
 const CustomRetention = () => {
