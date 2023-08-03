@@ -13,12 +13,12 @@ import customer10 from "../assets/customer/customer10.png";
 import customer11 from "../assets/customer/customer11.png";
 import customer12 from "../assets/customer/customer12.png";
 import customerrete from "../assets/customer/Customer-Retention.jpg";
-import customerbig from "../assets/customer/customer-retentionbig.jpg";
+import customerbig from "../assets/customer/customerretentionbig.jpg";
 import BeautifulCity from "./BeautifulCity";
-
+ 
 const CustomRetention = () => {
   return (
-    <>
+    <> 
       <div
         className="bg-no-repeat bg-cover bg-center w-full h-[300px] md:h-[450px]"
         style={{
